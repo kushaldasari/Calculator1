@@ -1,0 +1,18 @@
+2024-11-30 09:46:04.122 [main] INFO  org.example.Main - Operation: Power - Start
+2024-11-30 09:46:04.128 [main] INFO  org.example.Main - Operation: Power, Base: 2.0, Exponent: 3.0, Result: 8.0
+2024-11-30 09:46:04.128 [main] INFO  org.example.Main - Operation: Power - End
+2024-11-30 09:46:04.139 [main] INFO  org.example.Main - Operation: Square root - Start
+2024-11-30 09:46:04.141 [main] INFO  org.example.Main - Operation: Square root, Input: 16.0, Result: 4.0
+2024-11-30 09:46:04.141 [main] INFO  org.example.Main - Operation: Square root - End
+2024-11-30 09:46:04.144 [main] INFO  org.example.Main - Operation: Power - Start
+2024-11-30 09:46:04.144 [main] INFO  org.example.Main - Operation: Power, Base: 5.0, Exponent: 0.0, Result: 1.0
+2024-11-30 09:46:04.144 [main] INFO  org.example.Main - Operation: Power - End
+2024-11-30 09:46:04.148 [main] INFO  org.example.Main - Operation: Natural logarithm - Start
+2024-11-30 09:46:04.148 [main] INFO  org.example.Main - Operation: Natural logarithm, Input: 2.71828, Result: 0.999999327347282
+2024-11-30 09:46:04.148 [main] INFO  org.example.Main - Operation: Natural logarithm - End
+2024-11-30 09:46:04.152 [main] INFO  org.example.Main - Operation: Factorial - Start
+2024-11-30 09:46:04.157 [main] INFO  org.example.Main - Operation: Factorial, Input: 5, Result: 120
+2024-11-30 09:46:04.157 [main] INFO  org.example.Main - Operation: Factorial - End
+2024-11-30 09:46:04.160 [main] INFO  org.example.Main - Operation: Factorial - Start
+2024-11-30 09:46:04.161 [main] INFO  org.example.Main - Operation: Factorial, Input: 0, Result: 1
+2024-11-30 09:46:04.161 [main] INFO  org.example.Main - Operation: Factorial - End
